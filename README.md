@@ -9,7 +9,7 @@ The entire notebook takes around 2 to 3 hours to run with the bulk of the time a
 
 The start date is the earliest date that robintrack.net began collecting data. Don't forget to change the end date to the most recent trading day. You can change the stock list to be a small list of stocks of your choosing, but I like to look at the dataset as a whole. You can also get more data from Yahoo Finance, but I just chose to get the close and volume figures.
 
-# Recreate the robintrack.net graphs
+# Recreate the robintrack.net graphs using plotly
 Note: these graphs aren't exactly the same because robintrack.net collects multiple price points a day and we've only gathered closing prices.
 
 ![Robintrack Graph](images/Robintrack-Graph.png)
