@@ -12,4 +12,6 @@ The start date is the earliest date that robintrack.net began collecting data. D
 # Recreate the robintrack.net graphs
 Note: these graphs aren't exactly the same because robintrack.net collects multiple price points a day and we've only gathered closing prices.
 
-![Robintrack Graph](images/Robintrack Graph Recreated.png)
+![Robintrack Graph](images/Robintrack-Graph.png)
+
+![Robintrack Graph Recreated](images/Robintrack-Graph-Recreated.png)
