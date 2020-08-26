@@ -1,6 +1,6 @@
 # Robintrack Data with Prices
 
-The robintrack.net dataset can be downloaded [here](https://robintrack.net/data-download). The dataset tracks the number of Robinhood users holding a particular stock. However, the dataset does not include prices. In the following notebook I add prices to the data via Yahoo Finance. There are 8000+ stocks available to trade on Robinhood. Not all of those prices are available on Yahoo Finance, but a majority are. If you find a better option for pricing data other than the Robinhood API please let me know. If you find an interesting patterns in the data please let me know.
+The robintrack.net dataset can be downloaded [here](https://robintrack.net/data-download). The dataset tracks the number of Robinhood users holding a particular stock. However, the dataset does not include prices. In the following notebook I add prices to the data via Yahoo Finance. There are 8000+ stocks available to trade on Robinhood. Not all of those prices are available on Yahoo Finance, but a majority are. 
 
 The entire notebook takes around 2 to 3 hours to run with the bulk of the time allocated to downloading prices from Yahoo Finance.
 
